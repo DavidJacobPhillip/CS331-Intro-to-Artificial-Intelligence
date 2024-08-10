@@ -1,0 +1,7 @@
+Training Accuracy:  0.9559118236472945
+- File used for testing: trainingSet.txt
+- File used for training: trainingSet.txt
+
+Testing Accuracy:  0.7545271629778671
+- File used for testing: testSet.txt 
+- File used for training: trainingSet.txt

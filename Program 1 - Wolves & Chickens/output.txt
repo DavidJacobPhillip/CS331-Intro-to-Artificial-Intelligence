@@ -1,0 +1,23 @@
+STARTING VALUES: 
+lc: 0  lw: 0  lb: 0
+rc: 3  rw: 3  rb: 1
+
+GOAL VALUES: 
+lc: 3  lw: 3  lb: 1
+rc: 0  rw: 0  rb: 0
+
+Solution Found
+Nodes Expanded:  11
+Moves List:
+right to left two wolves
+left to right one wolf
+right to left two wolves
+left to right one wolf
+right to left two chickens
+left to right two wolves
+right to left one chicken and one wolf
+left to right one wolf
+right to left one chicken and one wolf
+left to right one wolf
+right to left one chicken and one wolf
+Total Path Moves:  11

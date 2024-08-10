@@ -1,0 +1,8 @@
+"""
+Names: Santosh Ramesh & Anshul Batish
+Date: 4-17-22
+Class: CS 331 Intro to Artificial Intelligence
+Program: Wolfs & Chicken
+Description: You need to get the wolves and chickens to the otherside of the river bank without eating all of the chickens
+
+"""
